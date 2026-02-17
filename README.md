@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🐹⚔️ ironhamlab
 
 <!--
 **ironhamlab/ironhamlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here, I build, tinker, and sometimes things actually work.  
+Experimenting with **FastAPI**, **AI/ML**, and whatever looks interesting.  
+Feel free to explore — or just watch the experiments unfold.
