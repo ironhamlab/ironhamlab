@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here, I build, tinker, and sometimes things actually work.  
+> Here, I build, tinker, and sometimes things actually work.  
+
 Experimenting with **FastAPI**, **AI/ML**, and whatever looks interesting.  
+
+
 Feel free to explore — or just watch the experiments unfold.
