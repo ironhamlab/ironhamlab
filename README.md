@@ -28,7 +28,32 @@
 
 <br><br>
 
-<h3>🔗 1. Yaldi — 실시간 협업 ERD 설계 플랫폼</h4>
+
+<h3> 📉 [진행중] Candle - 초보 투자자를 위한 모의 주식 투자 플랫폼 </h3>
+
+
+
+<div>
+<a href="https://github.com/take-profit-institute/micro-services">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=take-profit-institute&repo=micro-services" />
+</a>
+
+<p></p>
+
+<strong>MSA 백엔드 개발 — 주문/체결/계좌 도메인 담당 (Candle, 6인 팀)</strong>
+
+- 주문/체결(Order/Execution)·계좌(Account) 도메인 설계 및 구현 (Java/Spring Boot, gRPC 기반 MSA)
+- PostgreSQL 스키마 분리 설계 (account / order_svc / reservation) — 생명주기 기준 도메인 경계 설정, 크로스 스키마 FK 금지 원칙 수립
+- Outbox 패턴 기반 이벤트 발행 설계 (주문/체결 상태 변경 → Kafka/CDC 연계), 멱등성 키 테이블 설계로 중복 요청 방어
+- 비관적 락(SELECT ... FOR UPDATE) 기반 동시성 제어 — 계좌 단위 락으로 잔고 정합성 보장
+- 즉시 주문(시장가/지정가)·예약 주문(시가/종가/전일종가) 로직 분리 설계, 배치 스케줄러 연계 상태 전이 정의
+- 논리/물리 데이터 모델링 (ERD, Mermaid 다이어그램) 및 정책정의서 정합성 검토·수정안 작성
+  
+</div>
+
+<br>
+
+<h3>🔗 1. Yaldi — 실시간 협업 ERD 설계 플랫폼</h3>
 
 <div>
 <a href="https://github.com/ironhamlab/project-yaldi">
@@ -46,7 +71,7 @@
 
 <br>
 
-<h3>💰 2. 연금술사 — 퇴직연금 추천 앱</h4>
+<h3>💰 2. 연금술사 — 퇴직연금 추천 앱</h3>
 
 <div>
 <a href="https://github.com/ironhamlab/project-ygss">
