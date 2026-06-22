@@ -9,8 +9,13 @@
 
 <!--소개 한 줄-->
 <p align="center">
-  DevOps/Infra 경험을 기반으로 AI/LLM을 백엔드 시스템에 구조적으로 통합하는 개발자입니다 🚀
+  DevOps 경험을 기반으로 백엔드 시스템을 구축하는 개발자입니다 🚀
 </p>
+
+<p align="center">
+  AI 서비스 통합 역량도 키워가고 있습니다 🌱✨
+</p>
+
 
 <br>
 
@@ -19,32 +24,40 @@
 <br>
 
 <!-- Featured Projects -->
-<h3 align="center">🚀 Featured Projects</h3>
+<h2 align="center">🚀 Featured Projects</h3>
 
-<h4>🔗 [Yaldi — 실시간 협업 ERD 설계 플랫폼](https://github.com/ironhamlab/project-yaldi)</h4>
+<br><br>
+
+<h3>🔗 1. Yaldi — 실시간 협업 ERD 설계 플랫폼</h4>
 
 <div>
-<p>
-  개발팀의 시각화·자동화·동기화를 돕는 ERD 협업 도구. 인프라 전체를 담당.
-</p>
+<a href="https://github.com/ironhamlab/project-yaldi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ironhamlab&repo=project-yaldi" />
+</a>
+
+<p></p>
 
 - Docker Compose 기반 서비스 운영
 - Jenkins CI/CD 구축 및 Pipeline as Code 마이그레이션
 - nginx 멀티 서브도메인 라우팅 (api.yaldi.kr / yaldi.kr 등)
 - SSE/HTTP2 호환성 이슈 및 OAuth2 프로바이더 디버깅
+
 </div>
 
 <br>
 
-<h4>💰 [연금술사 — 퇴직연금 추천 앱](https://github.com/ironhamlab/project-ygss)</h4>
+<h3>💰 2. 연금술사 — 퇴직연금 추천 앱</h4>
 
 <div>
-<p>
-  사용자 맞춤 퇴직연금 포트폴리오를 추천하는 서비스.
-</p>
+<a href="https://github.com/ironhamlab/project-ygss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ironhamlab&repo=project-ygss" />
+</a>
+
+<p></p>
 
 - k3s 기반 쿠버네티스 인프라 설계 및 구축 (EC2)
 - 인프라 설정부터 배포까지 직접 담당
+
 </div>
 
 <br><br>
