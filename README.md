@@ -3,8 +3,9 @@
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hello!%20I'm%20Seowon%20Kim😎,%20a%20Backend%20Developer%20Bridging%20Infra%20and%20AI🧑‍💻&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hello!%20I'm%20Seowon%20Kim😎,%20a%20Backend%20Developer%20with%20DevOps%20Experience🧑‍💻&fontSize=20" />
 </div>
+
 
 <!--소개 한 줄-->
 <p align="center">
@@ -13,10 +14,16 @@
 
 <br>
 
+---
+
+<br>
+
 <!-- Featured Projects -->
 <h3 align="center">🚀 Featured Projects</h3>
 
 <h4>🔗 [Yaldi — 실시간 협업 ERD 설계 플랫폼](https://github.com/ironhamlab/project-yaldi)</h4>
+
+<div>
 <p>
   개발팀의 시각화·자동화·동기화를 돕는 ERD 협업 도구. 인프라 전체를 담당.
 </p>
@@ -25,16 +32,24 @@
 - Jenkins CI/CD 구축 및 Pipeline as Code 마이그레이션
 - nginx 멀티 서브도메인 라우팅 (api.yaldi.kr / yaldi.kr 등)
 - SSE/HTTP2 호환성 이슈 및 OAuth2 프로바이더 디버깅
+</div>
 
 <br>
 
 <h4>💰 [연금술사 — 퇴직연금 추천 앱](https://github.com/ironhamlab/project-ygss)</h4>
+
+<div>
 <p>
   사용자 맞춤 퇴직연금 포트폴리오를 추천하는 서비스.
 </p>
 
 - k3s 기반 쿠버네티스 인프라 설계 및 구축 (EC2)
 - 인프라 설정부터 배포까지 직접 담당
+</div>
+
+<br><br>
+
+---
 
 <br>
 
@@ -43,9 +58,13 @@
 
 <div align="center">
 
-**Backend** · Java / Spring Boot&nbsp;&nbsp;|&nbsp;&nbsp;**Infra** · Docker / Kubernetes (k3s)&nbsp;&nbsp;|&nbsp;&nbsp;**CI/CD** · Jenkins&nbsp;&nbsp;|&nbsp;&nbsp;**Cloud** · AWS
+**Backend** · Java / Spring Boot&nbsp;&nbsp;|&nbsp;&nbsp;**Infra** · Docker / Kubernetes (k3s)&nbsp;&nbsp;|&nbsp;&nbsp;**CI/CD** · Jenkins
 
 </div>
+
+<br><br>
+
+---
 
 <br>
 
@@ -60,21 +79,25 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div>
 
+<br>
+
 <p align="center"><b>Database</b></p>
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
 </div>
 
+<br>
+
 <p align="center"><b>DevOps & Infra</b></p>
 <div align="center">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
+
+<br>
 
 <p align="center"><b>Frontend</b></p>
 <div align="center">
@@ -83,15 +106,58 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
+<br><br>
+
+---
+
 <br>
 
 <!-- Currently Learning -->
 <h3 align="center">🌱 Currently Learning</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
+<br>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Architecture-4285F4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20API%20Orchestration-10A37F?style=for-the-badge&logoColor=white" />
+</div>
+
+
+
+<br><br>
+
+---
+
+<br>
+
+
+<!-- Certifications -->
+<h3 align="center">📜 Certifications</h3>
+
+<div align="center">
+
+|자격증|취득일|발급기관|
+|---|---|---|
+|네트워크관리사 2급|2025.12.09.|한국정보통신자격협회|
+|정보처리기사|2025.06.13.|한국산업인력공단|
+|AWS CLF-C02|2025.05.10.|Amazon Web Service|
+|SQLD|2024.12.13.|한국데이터베이스진흥센터|
+|리눅스마스터 2급|2024.10.04.|한국정보통신진흥협회|
+|CSTS 일반등급|2024.06.15.|한국정보통신기술협회|
+|운전면허 2종보통|2020.10.26.|경찰청(운전면허시험관리단)|
+
+</div>
+
+<br><br>
+
+---
 <br>
 
 <!-- GitHub Stats -->
@@ -101,6 +167,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ironhamlab&hide_title=true" height="165"/>
 </div>
 
+<br><br>
+
+---
 <br>
 
 <!-- Contact -->
@@ -113,6 +182,8 @@
     <img src="https://img.shields.io/badge/swandkim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+<br><br><br><br><br><br>
 
 
 
@@ -131,6 +202,7 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
 </div>
 
+<br>
 
 ### DB  
 <div align="center">  
@@ -140,12 +212,15 @@
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 </div>
 
+<br>
+
 ### Middleware
 <div align="center">  
   <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white">
   <img src="https://img.shields.io/badge/grpc-2596BE?style=for-the-badge&logo=gRPC&logoColor=white">
 </div>
 
+<br>
 
 ### DevOps  
 <div align="center">  
