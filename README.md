@@ -16,7 +16,7 @@
 <!-- Featured Projects -->
 <h3 align="center">🚀 Featured Projects</h3>
 
-<h4>🔗 Yaldi — 실시간 협업 ERD 설계 플랫폼</h4>
+<h4>🔗 [Yaldi — 실시간 협업 ERD 설계 플랫폼](https://github.com/ironhamlab/project-yaldi)</h4>
 <p>
   개발팀의 시각화·자동화·동기화를 돕는 ERD 협업 도구. 인프라 전체를 담당.
 </p>
@@ -28,7 +28,7 @@
 
 <br>
 
-<h4>💰 연금술사 — 퇴직연금 추천 앱</h4>
+<h4>💰 [연금술사 — 퇴직연금 추천 앱](https://github.com/ironhamlab/project-ygss)</h4>
 <p>
   사용자 맞춤 퇴직연금 포트폴리오를 추천하는 서비스.
 </p>
